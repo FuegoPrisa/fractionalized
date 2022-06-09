@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fractionalized/static/css/main.38be36b0.css",
-    "main.js": "/fractionalized/static/js/main.f50d280f.js",
+    "main.js": "/fractionalized/static/js/main.9958f3cb.js",
     "static/js/787.2539bf1e.chunk.js": "/fractionalized/static/js/787.2539bf1e.chunk.js",
     "static/media/demoNFT4.jpg": "/fractionalized/static/media/demoNFT4.76dd8f91a1e24678a4f9.jpg",
     "static/media/demoNFT2.jpg": "/fractionalized/static/media/demoNFT2.f7757e863461b7c2c6b5.jpg",
@@ -10,11 +10,11 @@
     "static/media/warm.png": "/fractionalized/static/media/warm.d64bc7cb0b4a28e2cf64.png",
     "index.html": "/fractionalized/index.html",
     "main.38be36b0.css.map": "/fractionalized/static/css/main.38be36b0.css.map",
-    "main.f50d280f.js.map": "/fractionalized/static/js/main.f50d280f.js.map",
+    "main.9958f3cb.js.map": "/fractionalized/static/js/main.9958f3cb.js.map",
     "787.2539bf1e.chunk.js.map": "/fractionalized/static/js/787.2539bf1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38be36b0.css",
-    "static/js/main.f50d280f.js"
+    "static/js/main.9958f3cb.js"
   ]
 }
